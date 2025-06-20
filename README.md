@@ -23,3 +23,6 @@ To build a transparent, immutable, and censorship-resistant voting mechanism tha
 
 ## 📄 Contract Details
 *To be filled manually by Judy.*
+contract address : 0xa11738418f26c0809884CEC9308B6b6A7B78F680
+![image](https://github.com/user-attachments/assets/1b5d7497-d06f-43a1-9636-9abb4536a8e6)
+
